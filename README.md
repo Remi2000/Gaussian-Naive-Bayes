@@ -40,21 +40,20 @@ This project was developed and tested using:
 
 ## Installation (Using Conda)
 
-To create the environment:
+To create the environment: use 'data2060.yml' file, create conda environment data2060
 
 ```bash
-conda data2060
+conda activate data2060
 
 ## Contact Information
 
 For questions, collaboration, or reproduction issues, please contact:
 
-**Primary Contact**  
+**Co-authors**  
 Name: Zi Tao 
 Email: zi_tao@brown.edu  
 
 
-**Secondary Contacts**  
 Name: Jiaqing Dai  
 Email: jiaqing_dai@brown.edu  
  
