@@ -34,17 +34,6 @@ This project was developed and tested using:
 - **pytest 8.4.1**
 - **torch 2.7.1**
 
-
-
----
-
-## Installation (Using Conda)
-
-To create the environment: use 'data2060.yml' file, create conda environment data2060
-
-```bash
-conda activate data2060
-
 ## Contact Information
 
 For questions, collaboration, or reproduction issues, please contact:
@@ -60,3 +49,13 @@ Email: jiaqing_dai@brown.edu
 
 Name: Yingzhi Ma
 Email: Yingzhi_ma@brown.edu
+
+---
+
+## Installation (Using Conda)
+
+To create the environment: use 'data2060.yml' file, create conda environment data2060
+
+```bash
+conda activate data2060
+
